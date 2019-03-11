@@ -1,12 +1,13 @@
 {
   "db": {
-    "host": "localhost",
-    "port": 27017,
-    "url": "",
-    "database": "Names",
-    "password": "",
-    "name": "db",
-    "user": "",
-    "connector": "mongodb"
+      "host": "",
+      "port": 0,
+      "url": "mongodb+srv://admin:!kbenh0m0@names-9tbd1.mongodb.net/test?retryWrites=true",
+      "database": "names",
+      "password": "!kbenh0m0",
+      "name": "mongoDS",
+      "user": "admin",
+      "connector": "mongodb"
+    }
   }
-}
+
