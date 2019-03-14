@@ -1,96 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="854a92f7-f040-464a-8c5e-9cc8fd6a7347" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/@@iterator/implement.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/@@iterator/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/@@iterator/is-implemented.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/@@iterator/shim.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/_compare-by-length.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es5-ext/array/hashtag/_compare-by-length.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/binary-search.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es5-ext/array/hashtag/binary-search.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/clear.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es5-ext/array/hashtag/clear.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/compact.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es5-ext/array/hashtag/compact.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/concat/implement.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/concat/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/concat/is-implemented.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/concat/shim.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/contains.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es5-ext/array/hashtag/contains.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/copy-within/implement.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/copy-within/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/copy-within/is-implemented.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/copy-within/shim.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/diff.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es5-ext/array/hashtag/diff.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/e-index-of.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es5-ext/array/hashtag/e-index-of.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/e-last-index-of.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es5-ext/array/hashtag/e-last-index-of.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/entries/implement.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/entries/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/entries/is-implemented.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/entries/shim.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/exclusion.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es5-ext/array/hashtag/exclusion.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/fill/implement.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/fill/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/fill/is-implemented.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/fill/shim.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/filter/implement.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/filter/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/filter/is-implemented.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/filter/shim.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/find-index/implement.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/find-index/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/find-index/is-implemented.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/find-index/shim.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/find/implement.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/find/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/find/is-implemented.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/find/shim.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/first-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es5-ext/array/hashtag/first-index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/first.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es5-ext/array/hashtag/first.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/flatten.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es5-ext/array/hashtag/flatten.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/for-each-right.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es5-ext/array/hashtag/for-each-right.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/group.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es5-ext/array/hashtag/group.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es5-ext/array/hashtag/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/indexes-of.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es5-ext/array/hashtag/indexes-of.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/intersection.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es5-ext/array/hashtag/intersection.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/is-copy.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es5-ext/array/hashtag/is-copy.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/is-empty.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es5-ext/array/hashtag/is-empty.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/is-uniq.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es5-ext/array/hashtag/is-uniq.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/keys/implement.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/keys/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/keys/is-implemented.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/keys/shim.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/last-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es5-ext/array/hashtag/last-index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/last.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es5-ext/array/hashtag/last.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/map/implement.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/map/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/map/is-implemented.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/map/shim.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/remove.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es5-ext/array/hashtag/remove.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/separate.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es5-ext/array/hashtag/separate.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/slice/implement.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/slice/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/slice/is-implemented.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/slice/shim.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/some-right.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es5-ext/array/hashtag/some-right.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/splice/implement.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/splice/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/splice/is-implemented.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/splice/shim.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/uniq.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es5-ext/array/hashtag/uniq.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/values/implement.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/values/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/values/is-implemented.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/array/#/values/shim.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/date/#/copy.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es5-ext/date/hashtag/copy.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/date/#/days-in-month.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es5-ext/date/hashtag/days-in-month.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/date/#/floor-day.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es5-ext/date/hashtag/floor-day.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/date/#/floor-month.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es5-ext/date/hashtag/floor-month.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/date/#/floor-year.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es5-ext/date/hashtag/floor-year.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/date/#/format.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es5-ext/date/hashtag/format.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/date/#/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es5-ext/date/hashtag/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/error/#/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es5-ext/error/hashtag/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es5-ext/error/#/throw.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es5-ext/error/hashtag/throw.js" afterDir="false" />
-    </list>
+    <list default="true" id="854a92f7-f040-464a-8c5e-9cc8fd6a7347" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -132,13 +43,14 @@
         <counts>
           <entry key="project.closed" value="7" />
           <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.33" value="1" />
           <entry key="project.open.time.37" value="1" />
           <entry key="project.open.time.40" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -254,7 +166,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -277,6 +188,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -322,11 +234,12 @@
       <workItem from="1552468139252" duration="423000" />
       <workItem from="1552471222989" duration="810000" />
       <workItem from="1552506868941" duration="616000" />
+      <workItem from="1552567408938" duration="250000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9768000" />
+    <option name="totallyTimeSpent" value="10018000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
